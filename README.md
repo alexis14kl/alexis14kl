@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Full+Stack;Angular+%7C+Laravel+%7C+CodeIgniter;Apasionado+por+el+c%C3%B3digo+limpio" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/alexis14kl?label=Seguidores&style=for-the-badge&color=6366f1&labelColor=1f2937&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/alexis14kl?label=Estrellas&style=for-the-badge&color=f59e0b&labelColor=1f2937&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=alexis14kl&label=Visitas&color=10b981&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🚀 Sobre mí
@@ -57,22 +63,6 @@
 
 ---
 
-### 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexis14kl&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trofeos" />
-</p>
-
----
-
-### 📈 Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexis14kl&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6366f1&line=818cf8&point=a5b4fc&area=true&area_color=6366f1" alt="Gráfico de actividad" />
-</p>
-
----
-
 ### 🌐 Conecta conmigo
 
 <p align="center">
@@ -91,10 +81,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexis14kl&label=Visitas%20al%20perfil&color=6366f1&style=flat-square" alt="Profile Views" />
-</p>
 
 <p align="center">
   💡 <i>"La programación no se trata de escribir código, se trata de resolver problemas."</i>
