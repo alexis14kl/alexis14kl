@@ -101,7 +101,7 @@
 ### 📈 Métricas detalladas
 
 <p align="center">
-  <img src="./metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/alexis14kl/alexis14kl/main/metrics.svg" alt="Metrics" />
 </p>
 
 ---
