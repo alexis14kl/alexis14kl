@@ -57,15 +57,18 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🏆 Trofeos de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexis14kl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis14kl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alexis14kl&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trofeos" />
 </p>
 
+---
+
+### 📈 Actividad
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexis14kl&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexis14kl&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6366f1&line=818cf8&point=a5b4fc&area=true&area_color=6366f1" alt="Gráfico de actividad" />
 </p>
 
 ---
