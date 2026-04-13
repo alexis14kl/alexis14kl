@@ -63,10 +63,20 @@
 
 ---
 
-### 📊 Lenguajes más usados
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis14kl&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=450" alt="Top Languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Lenguajes más usados" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos por lenguaje" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horas productivas" />
 </p>
 
 ---
