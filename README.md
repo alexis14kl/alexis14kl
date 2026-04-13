@@ -90,6 +90,29 @@
 
 ---
 
+### 🐍 Mi grid de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexis14kl/alexis14kl/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📈 Métricas detalladas
+
+<p align="center">
+  <img src="./metrics.svg" alt="Metrics" />
+</p>
+
+---
+
+### ⚡ Actividad reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 🌐 Conecta conmigo
 
 <p align="center">
