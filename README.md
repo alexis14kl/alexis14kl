@@ -63,6 +63,14 @@
 
 ---
 
+### 📊 Lenguajes más usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis14kl&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=450" alt="Top Languages" />
+</p>
+
+---
+
 ### 🌐 Conecta conmigo
 
 <p align="center">
