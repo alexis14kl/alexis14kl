@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./alexis14kl.jpeg" width="100%" alt="Yilson Alexis Malambo Madrigal" />
+  <img src="./alexis14kl.jpeg" width="600" alt="Yilson Alexis Malambo Madrigal" />
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy Yilson Alexis Malambo Madrigal</h1>
