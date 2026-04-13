@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://kyc-systems.com/blog/uploads/profile/202604/avatar_4_69d7d5345fc3a.webp" width="200" alt="Yilson Alexis Malambo Madrigal" style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">¡Hola! 👋 Soy Yilson Alexis Malambo Madrigal</h1>
 <h3 align="center">Ingeniero en Sistemas · Desarrollador Web Full Stack</h3>
 
