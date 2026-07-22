@@ -109,7 +109,7 @@
 ### ⚡ Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/alexis14kl/RPA-consultar_antecedente_policia/pull/1) in [alexis14kl/RPA-consultar_antecedente_policia](https://github.com/alexis14kl/RPA-consultar_antecedente_policia)
+1. 🎉 Merged PR [#2](https://github.com/alexis14kl/browser-ipc-cdp/pull/2) in [alexis14kl/browser-ipc-cdp](https://github.com/alexis14kl/browser-ipc-cdp)
 <!--END_SECTION:activity-->
 
 ---
