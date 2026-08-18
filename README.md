@@ -109,7 +109,7 @@
 ### ⚡ Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.13.0 — fill_by_label](https://github.com/alexis14kl/browser-ipc-cdp/releases/tag/v3.13.0) in [alexis14kl/browser-ipc-cdp](https://github.com/alexis14kl/browser-ipc-cdp)
+1. 🗣 Commented on [#3](https://github.com/alexis14kl/browser-ipc-cdp/pull/3#issuecomment-5320537206) in [alexis14kl/browser-ipc-cdp](https://github.com/alexis14kl/browser-ipc-cdp)
 <!--END_SECTION:activity-->
 
 ---
